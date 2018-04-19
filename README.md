@@ -1,3 +1,3 @@
 # bamazon
 
-<img src="bamazonPreview.mov">
+<img src="./bamazonPreview.mov">
